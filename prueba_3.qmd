@@ -25,3 +25,11 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+```{r}
+
+datos <- rnorm(50)
+hist(datos)
+
+```
+
